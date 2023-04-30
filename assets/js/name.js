@@ -1,4 +1,4 @@
-var text = ["h","ha","hav","have","haved","havedk","havedk?","havedk??","havedk???","havedk??","havedk?","havedk","havedks","havedkst","havedkstu","havedkstud","havedkstudi","havedkstudio","havedkstudio?","havedkstudio??","havedkstudio???","havedkstudio??","havedkstudio?","havedkstudio","havedkstudi","havedkstud","havedkstu","havedkst","havedks","havedk","haved","have","hav","ha","h","?"];
+var text = ["h","ha","hav","have","haved","havedk","havedk?","havedk??","havedk???","havedk??","havedk?","havedk","havedkヾ","havedkヾ(","havedkヾ(•","havedkヾ(•ω","havedkヾ(•ω•","havedkヾ(•ω•`)","havedkヾ(•ω•`)o","havedkヾ(•ω•`)o?","havedkヾ(•ω•`)o??","havedkヾ(•ω•`)o???","havedkヾ(•ω•`)o??","havedkヾ(•ω•`)o?","havedkヾ(•ω•`)o","havedkヾ(•ω•`)","havedkヾ(•ω•`","havedkヾ(•ω•","havedkヾ(•ω","havedkヾ(•","havedkヾ(","havedkヾ(","havedkヾ","havedk","haved","have","hav","ha","h","?"];
 var counter = 0;
 var inst = setInterval(change, 250);
 
