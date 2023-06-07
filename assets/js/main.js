@@ -15,7 +15,7 @@ YT.ready(_=>{
                 //player.mute();
                 e.target.setVolume(50);
                 clearInterval(loadInterval)
-                button.innerText = "?"
+                button.innerText = "ヾ(•ω•`)o"
                 button.classList.add("ready");
                 button.addEventListener("click", () => {
                     animInterval = setInterval(preloaderAnim, 10);
