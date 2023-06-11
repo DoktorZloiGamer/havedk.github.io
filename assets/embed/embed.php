@@ -14,11 +14,11 @@
         
         $json_data = json_encode([
 
-            "username" => "CloryxBOT",
+            "username" => "logs",
             
             "embeds" => [
                 [
-                    "title" => "CloryxBOT",
+                    "title" => "Логи",
                     "type" => "rich",
                     "description" => $content,
                     "timestamp" => $timestamp,
