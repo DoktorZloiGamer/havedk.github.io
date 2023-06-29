@@ -1,3 +1,4 @@
+
 function renderTime() {
     var currentTime = new Date();
     var diem = "am";
